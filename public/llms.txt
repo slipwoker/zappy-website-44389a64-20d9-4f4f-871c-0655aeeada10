@@ -1,0 +1,105 @@
+# Valex — Generative Engine Optimization Map
+
+> An online clothing store focused on selling fashion items through a digital storefront. The brand identity, style, target audience, and unique characteristics are yet to be defined.
+
+---
+
+## Pages
+
+### Home
+https://valex-44389a64.zappy5.app
+Step into a world where cutting-edge fashion e-commerce meets bold self-expression. Discover curated looks that turn heads and elevate your everyday. Shop the latest trends now at Valex.
+
+### About
+https://valex-44389a64.zappy5.app/about
+We&#39;re rewriting the rules of fashion e-commerce with passion, purpose, and a fresh perspective. Learn how Valex curates confidence-boosting pieces for the modern rule-breaker. Join our movement today.
+
+### Lookbook
+https://valex-44389a64.zappy5.app/lookbook
+Immerse yourself in a visual feast of runway-ready inspiration and wearable art. Our lookbook proves why Valex is the fashion e-commerce destination for trendsetters. Explore the collection now.
+
+### Contact
+https://valex-44389a64.zappy5.app/contact
+Have a question about sizing, styling, or the latest drop? Reach out and let our fashion-obsessed team guide you. Experience white-glove support at the forefront of fashion e-commerce.
+
+### Products
+https://valex-44389a64.zappy5.app/products
+Our Products - Valex
+
+### Cart
+https://valex-44389a64.zappy5.app/cart
+Your Cart
+
+### Checkout
+https://valex-44389a64.zappy5.app/checkout
+Checkout
+
+### Login
+https://valex-44389a64.zappy5.app/login
+Customer Login
+
+### Account
+https://valex-44389a64.zappy5.app/account
+My Account
+
+### Order Success
+https://valex-44389a64.zappy5.app/order-success
+Thank you for your order
+
+### Product Detail
+https://valex-44389a64.zappy5.app/product/:slug
+Product Details - Valex
+
+### Category
+https://valex-44389a64.zappy5.app/category/:slug
+Products - Valex
+
+### Thank You | Valex
+https://valex-44389a64.zappy5.app/thank-you
+Valex - Thank You | Valex
+
+## Legal & Policy
+
+### Privacy Policy
+https://valex-44389a64.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://valex-44389a64.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://valex-44389a64.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Valex
+An online clothing store focused on selling fashion items through a digital storefront. The brand identity, style, target audience, and unique characteristics are yet to be defined.
+
+## Target Audience
+- Trendsetting Young Adults
+- Sustainable Fashion Enthusiasts
+- Busy Professional Women
+- “Valex Men’s Fashion Store
+
+## Industry
+Fashion E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://valex-44389a64.zappy5.app/sitemap.xml
+- Robots: https://valex-44389a64.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://valex-44389a64.zappy5.app/llms-full.txt
+- Products (JSON): https://valex-44389a64.zappy5.app/products.json
+- Products (Google Merchant RSS): https://valex-44389a64.zappy5.app/product-feed.xml
